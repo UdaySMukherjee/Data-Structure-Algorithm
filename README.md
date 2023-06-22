@@ -11,7 +11,6 @@ In this repository, you'll find various DSA implementations and solutions to pop
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Data Structures
 
